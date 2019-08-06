@@ -1,2 +1,2 @@
 # rithym
-scrap paper for rithym schools js free course
+scrap paper for https://www.rithmschool.com/ free js courses
